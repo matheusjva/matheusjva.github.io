@@ -102,10 +102,10 @@ $(function () {
   /* typejs
   -------------------------------------------------------*/
   $('.header .caption h2 span').typed({
-    strings: ["Designer","freelancer","Photographer","Web developer"],
+    strings: ["Matheus Albino"],
     loop: true,
     startDelay: 1000,
-    backDelay: 2000
+    backDelay: 2500
   });
 
 
